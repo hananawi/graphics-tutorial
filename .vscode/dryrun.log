@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/jie_shen/Myprograms/tutorial-graphics'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
+make: Leaving directory `/Users/jie_shen/Myprograms/tutorial-graphics'
+ 

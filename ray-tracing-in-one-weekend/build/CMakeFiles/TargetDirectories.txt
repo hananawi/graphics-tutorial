@@ -1,0 +1,3 @@
+/Users/jie_shen/Myprograms/tutorial-graphics/ray-tracing-in-one-weekend/build/CMakeFiles/a.dir
+/Users/jie_shen/Myprograms/tutorial-graphics/ray-tracing-in-one-weekend/build/CMakeFiles/edit_cache.dir
+/Users/jie_shen/Myprograms/tutorial-graphics/ray-tracing-in-one-weekend/build/CMakeFiles/rebuild_cache.dir
